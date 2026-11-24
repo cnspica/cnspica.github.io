@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">社区服务的一天</title>
+  <desc id="description">清晨的菜市场、上午的公园长椅和下午的小区入口，呈现一天中的三个社区生活时段。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f5f1e7"/>
+  <circle cx="1035" cy="128" r="98" fill="#f1d9b1"/>
+  <path d="M0 553c186-48 373-17 575 14 220 35 415 6 625-53v206H0z" fill="#e6e7dc"/>
+  <text x="72" y="96" fill="#60796c" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">一线观察 · 社区日常</text>
+  <text x="72" y="179" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">服务要放对时间和地点</text>
+  <text x="72" y="245" fill="#293d36" font-family="sans-serif" font-size="33" font-weight="600">先看人们何时出现、平时往哪里去</text>
+  <path d="M74 275h160" stroke="#dc8965" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(73 321)">
+    <rect width="337" height="260" rx="23" fill="#fffdf8"/>
+    <rect x="24" y="26" width="289" height="163" rx="15" fill="#e8eee5"/>
+    <circle cx="267" cy="59" r="22" fill="#efcf91"/>
+    <path d="M46 141h249" stroke="#b9ac92" stroke-width="8" stroke-linecap="round"/>
+    <path d="M60 85h93v54H60z" fill="#df8965"/>
+    <path d="M51 85h111l-17-25H68z" fill="#668b78"/>
+    <path d="M77 99h25v40H77zm41 0h25v40h-25z" fill="#f5e5ce"/>
+    <circle cx="202" cy="111" r="17" fill="#dfb391"/>
+    <path d="M180 169c3-29 12-43 26-43s23 14 26 43z" fill="#718f7e"/>
+    <text x="168" y="228" fill="#43594f" font-family="sans-serif" font-size="24" font-weight="700" text-anchor="middle">07:00 · 市场周边</text>
+    <text x="168" y="251" fill="#718078" font-family="sans-serif" font-size="16" text-anchor="middle">早晨出门的生活动线</text>
+  </g>
+
+  <g transform="translate(431 321)">
+    <rect width="337" height="260" rx="23" fill="#fffdf8"/>
+    <rect x="24" y="26" width="289" height="163" rx="15" fill="#eaf0e8"/>
+    <circle cx="264" cy="58" r="20" fill="#efcf91"/>
+    <path d="M46 149c54-21 130-16 249-46v55H46z" fill="#c6d6c6"/>
+    <path d="M84 117h171m-157 18h143" stroke="#8c9f8c" stroke-width="8" stroke-linecap="round"/>
+    <path d="M95 105v47m150-47v47" stroke="#a17c5f" stroke-width="7"/>
+    <circle cx="160" cy="89" r="15" fill="#dfb391"/>
+    <path d="M143 133c3-24 9-35 18-35s16 11 19 35z" fill="#df8965"/>
+    <circle cx="211" cy="92" r="14" fill="#d6a984"/>
+    <path d="M195 133c2-23 8-34 16-34s14 11 16 34z" fill="#668b78"/>
+    <text x="168" y="228" fill="#43594f" font-family="sans-serif" font-size="24" font-weight="700" text-anchor="middle">10:00 · 公园长椅</text>
+    <text x="168" y="251" fill="#718078" font-family="sans-serif" font-size="16" text-anchor="middle">休息、散步与日常交流</text>
+  </g>
+
+  <g transform="translate(789 321)">
+    <rect width="337" height="260" rx="23" fill="#fffdf8"/>
+    <rect x="24" y="26" width="289" height="163" rx="15" fill="#e8eee5"/>
+    <circle cx="262" cy="57" r="20" fill="#efcf91"/>
+    <path d="M47 87h240v103H47z" fill="#f0e8d9"/>
+    <path d="M47 87h240v16H47z" fill="#718f7e"/>
+    <path d="M70 104v86m196-86v86" stroke="#c3b39a" stroke-width="8"/>
+    <circle cx="151" cy="121" r="13" fill="#d9aa87"/>
+    <path d="M137 165c2-22 6-32 14-32s13 10 15 32z" fill="#df8965"/>
+    <circle cx="208" cy="120" r="12" fill="#e0b895"/>
+    <path d="M195 165c2-21 6-31 13-31s12 10 14 31z" fill="#668b78"/>
+    <path d="M145 169h54" stroke="#a17c5f" stroke-width="5" stroke-linecap="round"/>
+    <text x="168" y="228" fill="#43594f" font-family="sans-serif" font-size="24" font-weight="700" text-anchor="middle">15:00 · 小区入口</text>
+    <text x="168" y="251" fill="#718078" font-family="sans-serif" font-size="16" text-anchor="middle">放学前后的家庭安排</text>
+  </g>
+  <text x="72" y="648" fill="#354a43" font-family="sans-serif" font-size="29" font-weight="700">把观察当成假设，再用小规模试点验证。</text>
+  <text x="1128" y="651" fill="#718078" font-family="sans-serif" font-size="18" text-anchor="end">TIME · PLACE · CONTEXT</text>
+</svg>

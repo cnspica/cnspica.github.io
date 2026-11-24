@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">长者友好的内容设计</title>
+  <desc id="description">左边是文字拥挤、步骤不清的页面，右边是有留白、单一明确操作并提供返回入口的页面。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f6f2e9"/>
+  <circle cx="1044" cy="118" r="98" fill="#f0d7b4"/>
+  <path d="M0 567c202-56 405-28 586 5s393 17 614-48v196H0z" fill="#e6e9e1"/>
+  <text x="72" y="98" fill="#60796c" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">内容方法 · 四个检查点</text>
+  <text x="72" y="180" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">字号变大只是第一步</text>
+  <text x="72" y="247" fill="#293d36" font-family="sans-serif" font-size="34" font-weight="600">语速 · 顺序 · 留白 · 可回退</text>
+  <path d="M74 276h162" stroke="#dc8965" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(82 322)">
+    <rect width="414" height="254" rx="24" fill="#fffdf8"/>
+    <text x="28" y="43" fill="#a16f5b" font-family="sans-serif" font-size="21" font-weight="700">信息挤在一起</text>
+    <rect x="28" y="62" width="358" height="164" rx="12" fill="#f1eee8"/>
+    <path d="M46 83h185m-185 14h326m-326 14h286m-286 14h331m-331 14h246m-246 14h319m-319 14h288m-288 14h327m-327 14h193" stroke="#a9aea6" stroke-width="5" stroke-linecap="round"/>
+    <rect x="267" y="76" width="96" height="30" rx="6" fill="#edd4c4"/>
+  </g>
+  <path d="M533 444h77" stroke="#dc8965" stroke-width="7" stroke-linecap="round"/>
+  <path d="m595 427 20 17-20 17" fill="none" stroke="#dc8965" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(674 322)">
+    <rect width="414" height="254" rx="24" fill="#e8eee7"/>
+    <rect x="102" y="27" width="210" height="204" rx="21" fill="#fffdf8" stroke="#d5ded5" stroke-width="3"/>
+    <path d="M126 57h20" stroke="#638873" stroke-width="5" stroke-linecap="round"/>
+    <path d="M132 57l-8-8m8 8 8-8" stroke="#638873" stroke-width="4" stroke-linecap="round"/>
+    <text x="207" y="97" fill="#354a43" font-family="sans-serif" font-size="21" font-weight="700" text-anchor="middle">照片已收到</text>
+    <rect x="138" y="116" width="138" height="48" rx="12" fill="#dceae0"/>
+    <text x="207" y="147" fill="#496d58" font-family="sans-serif" font-size="19" text-anchor="middle">查看照片</text>
+    <path d="M144 183h126" stroke="#c5cec5" stroke-width="4" stroke-linecap="round"/>
+    <text x="207" y="211" fill="#788179" font-family="sans-serif" font-size="15" text-anchor="middle">点这里打开</text>
+  </g>
+  <text x="72" y="649" fill="#354a43" font-family="sans-serif" font-size="29" font-weight="700">让人看得懂、做得到，也能安心退回来。</text>
+  <text x="1128" y="652" fill="#718078" font-family="sans-serif" font-size="18" text-anchor="end">CLEAR · SPACED · REVERSIBLE</text>
+</svg>

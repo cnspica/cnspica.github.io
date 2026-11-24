@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">县城里的消费与信任</title>
+  <desc id="description">一条有小店、遮阳棚和行人的县城街道，店主与顾客在店门口交谈。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f5f0e5"/>
+  <circle cx="1050" cy="116" r="92" fill="#f1d8ae"/>
+  <path d="M0 470h1200v250H0z" fill="#e3ded2"/>
+  <path d="M0 530h1200v16H0z" fill="#d3cbbb"/>
+  <text x="72" y="96" fill="#60796c" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">市场观察 · 县域消费</text>
+  <text x="72" y="179" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">先别急着套答案</text>
+  <text x="72" y="245" fill="#293d36" font-family="sans-serif" font-size="37" font-weight="600">先问：这笔钱花得值不值？</text>
+  <path d="M74 274h156" stroke="#dc8965" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(94 322)">
+    <rect x="48" y="55" width="368" height="188" rx="12" fill="#f8f6ef"/>
+    <path d="M30 74 226 0l208 74z" fill="#668b78"/>
+    <path d="M63 74h355v28H63z" fill="#df8965"/>
+    <path d="M63 74h58v28H63zm118 0h58v28h-58zm118 0h58v28h-58z" fill="#f4e3cd"/>
+    <rect x="84" y="126" width="96" height="116" rx="7" fill="#d8e4d8"/>
+    <rect x="216" y="122" width="112" height="121" rx="7" fill="#e9d8bd"/>
+    <path d="M84 160h96m-96 28h96M216 157h112m-112 28h112" stroke="#fffdf8" stroke-width="6"/>
+    <path d="M348 126h48v117h-48z" fill="#c9d6cb"/>
+    <circle cx="382" cy="184" r="5" fill="#8b806d"/>
+    <text x="226" y="268" fill="#596b5f" font-family="sans-serif" font-size="19" text-anchor="middle">街边小店 · 日常往来</text>
+  </g>
+
+  <g transform="translate(590 329)">
+    <ellipse cx="227" cy="250" rx="223" ry="20" fill="#d1c9ba"/>
+    <path d="M71 241c7-62 30-97 77-104l64 13 19 91z" fill="#668b78"/>
+    <circle cx="132" cy="107" r="37" fill="#dfb391"/>
+    <path d="M96 98c9-34 31-49 61-42 19 4 31 18 35 40-27 0-48-11-61-31-9 18-21 29-35 33z" fill="#d3ccbd"/>
+    <path d="M119 118c8 5 17 5 25 0" fill="none" stroke="#835d49" stroke-width="4" stroke-linecap="round"/>
+    <path d="m101 163-35 55m119-55 26 45" stroke="#dfb391" stroke-width="14" stroke-linecap="round"/>
+    <path d="M260 241c8-61 30-96 78-103l63 14 20 89z" fill="#df8965"/>
+    <circle cx="322" cy="107" r="37" fill="#d9aa87"/>
+    <path d="M285 98c7-34 31-49 60-42 20 4 32 18 37 40-25-2-45-12-59-31-9 18-21 29-38 33z" fill="#475b51"/>
+    <path d="M309 118c8 5 17 5 25 0" fill="none" stroke="#835d49" stroke-width="4" stroke-linecap="round"/>
+    <path d="m291 163-38 53m119-53 34 46" stroke="#d9aa87" stroke-width="14" stroke-linecap="round"/>
+    <path d="M184 189h77" stroke="#b98f6e" stroke-width="9" stroke-linecap="round"/>
+    <rect x="201" y="160" width="43" height="34" rx="5" fill="#f1d8ae"/>
+    <path d="M211 171h22m-22 8h15" stroke="#a7795b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M199 134c-3-20 8-34 28-34 19 0 30 14 27 34" fill="none" stroke="#43594f" stroke-width="6"/>
+  </g>
+  <text x="72" y="650" fill="#354a43" font-family="sans-serif" font-size="29" font-weight="700">把“值不值”拆开，听见具体的人与场景。</text>
+  <text x="1128" y="653" fill="#718078" font-family="sans-serif" font-size="18" text-anchor="end">LOCAL CONTEXT · REAL VALUE</text>
+</svg>

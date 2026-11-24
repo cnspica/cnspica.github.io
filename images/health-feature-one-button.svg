@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">从健康档案到联系家人</title>
+  <desc id="description">一侧是信息繁多的健康档案卡片，另一侧是醒目的联系家人按钮，表现从堆叠功能转向实际行动。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f6f2e9"/>
+  <circle cx="1054" cy="128" r="105" fill="#f0d7b4"/>
+  <path d="M0 567c211-61 381-23 574 11 222 39 395-7 626-60v202H0z" fill="#e5e8df"/>
+  <text x="72" y="98" fill="#60796c" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">产品复盘 · 找到真实动作</text>
+  <text x="72" y="181" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">档案做得很完整</text>
+  <text x="72" y="248" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">不如让求助更直接</text>
+  <path d="M74 277h162" stroke="#dc8965" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(82 330)">
+    <rect width="315" height="230" rx="23" fill="#fffdf8"/>
+    <text x="26" y="42" fill="#738078" font-family="sans-serif" font-size="20" font-weight="700">健康档案</text>
+    <rect x="26" y="62" width="116" height="61" rx="12" fill="#e4eee6"/>
+    <path d="M42 102c15-26 24-5 37-19s20 11 44-13" fill="none" stroke="#69917c" stroke-width="4" stroke-linecap="round"/>
+    <rect x="158" y="62" width="131" height="61" rx="12" fill="#f5e8da"/>
+    <path d="M174 81h98m-98 14h79m-79 14h62" stroke="#c58d6f" stroke-width="4" stroke-linecap="round"/>
+    <rect x="26" y="140" width="263" height="59" rx="12" fill="#f0eee7"/>
+    <path d="M44 159h126m-126 14h194m-194 14h152" stroke="#b4b8af" stroke-width="4" stroke-linecap="round"/>
+    <text x="157" y="224" fill="#7a827b" font-family="sans-serif" font-size="18" text-anchor="middle">数据不少，下一步不清楚</text>
+  </g>
+
+  <path d="M437 442h95" stroke="#dc8965" stroke-width="7" stroke-linecap="round"/>
+  <path d="m518 425 20 17-20 17" fill="none" stroke="#dc8965" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(625 326)">
+    <rect width="464" height="235" rx="28" fill="#e9eee6"/>
+    <rect x="62" y="43" width="340" height="140" rx="25" fill="#fffdf8"/>
+    <circle cx="150" cy="112" r="42" fill="#dbe9df"/>
+    <path d="M133 108v-8a17 17 0 0 1 34 0v8m-39 0h44v30h-44z" fill="none" stroke="#5d8872" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <text x="292" y="105" fill="#43594f" font-family="sans-serif" font-size="24" font-weight="700" text-anchor="middle">联系家人</text>
+    <text x="292" y="139" fill="#788179" font-family="sans-serif" font-size="18" text-anchor="middle">由你选择何时联系</text>
+    <text x="232" y="215" fill="#718078" font-family="sans-serif" font-size="19" text-anchor="middle">一个清楚、可控的下一步</text>
+  </g>
+  <text x="72" y="650" fill="#354a43" font-family="sans-serif" font-size="29" font-weight="700">从“记录更多”，转向“帮我完成这一步”。</text>
+  <text x="1128" y="653" fill="#718078" font-family="sans-serif" font-size="18" text-anchor="end">DESIGN FOR REAL ACTION</text>
+</svg>

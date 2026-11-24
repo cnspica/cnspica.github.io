@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">适老设计让更多人受益</title>
+  <desc id="description">一条平缓的无障碍坡道连接建筑入口，轮椅使用者、推婴儿车的人和拉行李箱的人都能通行。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f5f1e7"/>
+  <circle cx="1034" cy="124" r="102" fill="#f1d9b1"/>
+  <path d="M0 542c193-39 387-26 580 13 215 43 415-5 620-55v220H0z" fill="#e5e8df"/>
+  <text x="72" y="96" fill="#60796c" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">设计思考 · 无障碍与日常</text>
+  <text x="72" y="179" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">适老化不是特殊补丁</text>
+  <text x="72" y="245" fill="#293d36" font-family="sans-serif" font-size="36" font-weight="600">而是让更多人都能顺利使用</text>
+  <path d="M74 275h162" stroke="#dc8965" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(82 313)">
+    <rect width="1037" height="282" rx="24" fill="#e9eee7"/>
+    <rect x="746" y="35" width="224" height="179" rx="12" fill="#f7f5ee"/>
+    <rect x="779" y="70" width="70" height="144" rx="8" fill="#d6e4d8"/>
+    <rect x="868" y="70" width="70" height="144" rx="8" fill="#d6e4d8"/>
+    <circle cx="838" cy="144" r="5" fill="#748a77"/>
+    <path d="M0 238h171l175-124h340l131 124h220" fill="none" stroke="#adbaa9" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M90 236 258 123h419l128 113" fill="none" stroke="#e8d4b8" stroke-width="18" stroke-linejoin="round"/>
+    <path d="M104 237 265 137h401l116 100" fill="none" stroke="#668b78" stroke-width="5" stroke-linejoin="round"/>
+
+    <g transform="translate(126 133)">
+      <circle cx="32" cy="14" r="16" fill="#dfb391"/>
+      <path d="M16 40h29l13 56H8z" fill="#df8965"/>
+      <path d="M24 96 10 132m28-36 19 31" stroke="#475b51" stroke-width="8" stroke-linecap="round"/>
+      <path d="M40 49 81 72" stroke="#dfb391" stroke-width="9" stroke-linecap="round"/>
+      <circle cx="103" cy="117" r="25" fill="none" stroke="#43594f" stroke-width="7"/>
+      <circle cx="59" cy="116" r="16" fill="none" stroke="#43594f" stroke-width="6"/>
+      <path d="M56 77h48l12 37H63z" fill="#dce8df" stroke="#43594f" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+
+    <g transform="translate(391 112)">
+      <circle cx="34" cy="18" r="16" fill="#e0b895"/>
+      <path d="M18 45h31l13 77H6z" fill="#668b78"/>
+      <path d="M21 120 12 157m34-37 18 37" stroke="#475b51" stroke-width="8" stroke-linecap="round"/>
+      <path d="M19 54 0 100m41-44 34 29" stroke="#e0b895" stroke-width="9" stroke-linecap="round"/>
+      <circle cx="98" cy="118" r="21" fill="#fffdf8" stroke="#43594f" stroke-width="5"/>
+      <circle cx="146" cy="118" r="21" fill="#fffdf8" stroke="#43594f" stroke-width="5"/>
+      <path d="M99 118h47l-11-32h-37z" fill="#dfd7c8" stroke="#43594f" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M113 85v-17h20" fill="none" stroke="#43594f" stroke-width="5" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(624 118)">
+      <circle cx="31" cy="17" r="15" fill="#d9aa87"/>
+      <path d="M16 43h30l11 66H5z" fill="#738c9b"/>
+      <path d="m18 107-8 43m32-43 19 39" stroke="#475b51" stroke-width="8" stroke-linecap="round"/>
+      <path d="M14 52 0 94m43-39 27 33" stroke="#d9aa87" stroke-width="9" stroke-linecap="round"/>
+      <rect x="67" y="86" width="39" height="49" rx="7" fill="#c99d78"/>
+      <path d="M76 86v-9a10 10 0 0 1 20 0v9" fill="none" stroke="#8b6a4f" stroke-width="5"/>
+      <circle cx="82" cy="101" r="2" fill="#fffdf8"/>
+    </g>
+  </g>
+  <text x="72" y="650" fill="#354a43" font-family="sans-serif" font-size="29" font-weight="700">从真实障碍出发，让更多人拥有选择与通行的自由。</text>
+  <text x="1128" y="653" fill="#718078" font-family="sans-serif" font-size="18" text-anchor="end">DESIGN FOR MORE PEOPLE</text>
+</svg>

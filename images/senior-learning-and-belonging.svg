@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">在自己的节奏里学习</title>
+  <desc id="description">几位长者在明亮的教室里练习书法与绘画，桌上摆着作品和学习用品。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f6f2e9"/>
+  <circle cx="1020" cy="122" r="100" fill="#f1ddb9"/>
+  <path d="M0 552c186-41 374-18 573 16 223 39 427-9 627-53v205H0z" fill="#e8e4da"/>
+  <text x="72" y="96" fill="#60796c" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">银发观察 · 学习与参与</text>
+  <text x="72" y="180" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">课程之外</text>
+  <text x="72" y="247" fill="#293d36" font-family="sans-serif" font-size="55" font-weight="700">也要有“我还行”的位置</text>
+  <path d="M74 276h152" stroke="#dc8965" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(82 324)">
+    <rect width="1036" height="266" rx="25" fill="#e9eee7"/>
+    <rect x="50" y="34" width="168" height="112" rx="12" fill="#fffdf8"/>
+    <path d="M68 57h131m-131 18h89m-89 18h110" stroke="#d7e3d8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M133 146v30" stroke="#adbaa9" stroke-width="9"/>
+    <path d="M100 178h67" stroke="#adbaa9" stroke-width="9" stroke-linecap="round"/>
+
+    <g transform="translate(274 46)">
+      <circle cx="68" cy="43" r="34" fill="#dfb594"/>
+      <path d="M36 40c8-28 25-42 51-38 17 3 28 16 31 35-20-2-36-12-47-28-9 17-20 27-35 31z" fill="#ddd8cb"/>
+      <path d="M23 154c7-53 28-77 67-77s61 24 68 77z" fill="#668b78"/>
+      <path d="M54 55c8 5 17 5 25 0" fill="none" stroke="#835d49" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(507 46)">
+      <circle cx="68" cy="43" r="34" fill="#d9a77f"/>
+      <path d="M35 35c7-24 24-34 47-31 18 2 30 14 34 31-21-2-37-11-48-27-9 15-20 24-33 27z" fill="#475b51"/>
+      <path d="M23 154c7-53 28-77 67-77s61 24 68 77z" fill="#df8966"/>
+      <path d="M54 55c8 5 17 5 25 0" fill="none" stroke="#835d49" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(740 46)">
+      <circle cx="68" cy="43" r="34" fill="#e3ba98"/>
+      <path d="M34 38c4-26 22-38 46-35 20 2 32 16 37 37-19-4-36-13-48-29-8 15-20 24-35 27z" fill="#c8c0b1"/>
+      <path d="M23 154c7-53 28-77 67-77s61 24 68 77z" fill="#738c9b"/>
+      <path d="M54 55c8 5 17 5 25 0" fill="none" stroke="#835d49" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <path d="M105 211h838" stroke="#b99b7e" stroke-width="15" stroke-linecap="round"/>
+    <rect x="387" y="165" width="170" height="58" rx="6" fill="#fffdf8" transform="rotate(-3 387 165)"/>
+    <path d="M410 205c22-26 36 11 59-15 17-18 29 9 53-7" fill="none" stroke="#4f6c5e" stroke-width="5" stroke-linecap="round"/>
+    <rect x="640" y="173" width="120" height="42" rx="5" fill="#f2d9bf" transform="rotate(4 640 173)"/>
+    <circle cx="805" cy="188" r="10" fill="#df8966"/>
+    <circle cx="839" cy="188" r="10" fill="#7b9b84"/>
+    <circle cx="873" cy="188" r="10" fill="#e6c46f"/>
+  </g>
+  <text x="72" y="650" fill="#354a43" font-family="sans-serif" font-size="29" font-weight="700">设计学习体验，也要尊重每个人的节奏与能力。</text>
+  <text x="1128" y="653" fill="#718078" font-family="sans-serif" font-size="18" text-anchor="end">LEARN · CREATE · BELONG</text>
+</svg>

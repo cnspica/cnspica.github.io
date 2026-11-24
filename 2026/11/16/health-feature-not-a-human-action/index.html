@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  
+  <title>健康档案做得再完整，也不如一个能找到家人的按钮 | Hexo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="我们曾经做过一个自己很得意的功能：把测量数据、用药记录和就诊历史整合在同一份健康档案里。界面很完整，上线三个月，使用率却不到百分之五。 后来我们去问用户。一位大爷反问：“我记这些干啥？我又不是医生。我不舒服，我打电话给我闺女。” 这句话让我们重新看需求。我们以为他要的是一套健康信息管理工具；对他来说，真正有用的动作是遇到问题时能联系到信任的人。 功能齐全，不等于解决了眼前的问题档案把信息收集起来">
+<meta property="og:type" content="article">
+<meta property="og:title" content="健康档案做得再完整，也不如一个能找到家人的按钮">
+<meta property="og:url" content="https://cnspica.github.io/2026/11/16/health-feature-not-a-human-action/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="我们曾经做过一个自己很得意的功能：把测量数据、用药记录和就诊历史整合在同一份健康档案里。界面很完整，上线三个月，使用率却不到百分之五。 后来我们去问用户。一位大爷反问：“我记这些干啥？我又不是医生。我不舒服，我打电话给我闺女。” 这句话让我们重新看需求。我们以为他要的是一套健康信息管理工具；对他来说，真正有用的动作是遇到问题时能联系到信任的人。 功能齐全，不等于解决了眼前的问题档案把信息收集起来">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://cnspica.github.io/images/health-feature-one-button.svg">
+<meta property="article:published_time" content="2026-11-16T01:00:00.000Z">
+<meta property="article:modified_time" content="2026-11-24T11:01:47.985Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="银发经济">
+<meta property="article:tag" content="踩坑复盘">
+<meta property="article:tag" content="产品设计">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cnspica.github.io/images/health-feature-one-button.svg">
+  
+    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/favicon.png">
+  
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-source-code-pro@0.0.71/index.min.css">
+
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Hexo</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://cnspica.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-2026-11-16-health-feature-not-a-human-action" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2026/11/16/health-feature-not-a-human-action/" class="article-date">
+  <time class="dt-published" datetime="2026-11-16T01:00:00.000Z" itemprop="datePublished">2026-11-16</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/">产品思考</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      健康档案做得再完整，也不如一个能找到家人的按钮
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p><img src="/images/health-feature-one-button.svg" alt="复杂的健康数据界面旁，一个清晰的联系家人按钮"></p>
+<p>我们曾经做过一个自己很得意的功能：把测量数据、用药记录和就诊历史整合在同一份健康档案里。界面很完整，上线三个月，使用率却不到百分之五。</p>
+<p>后来我们去问用户。一位大爷反问：“我记这些干啥？我又不是医生。我不舒服，我打电话给我闺女。”</p>
+<p>这句话让我们重新看需求。我们以为他要的是一套健康信息管理工具；对他来说，真正有用的动作是遇到问题时能联系到信任的人。</p>
+<h2 id="功能齐全，不等于解决了眼前的问题"><a href="#功能齐全，不等于解决了眼前的问题" class="headerlink" title="功能齐全，不等于解决了眼前的问题"></a>功能齐全，不等于解决了眼前的问题</h2><p>档案把信息收集起来，却仍然要求用户记得录入、理解数据、判断变化，甚至知道下一步该怎么办。它解决的是“信息放在哪里”，不一定解决“我现在需要谁来帮忙”。</p>
+<p>我们后来把入口改得更直接：提供一个联系家人的按钮。按草稿记录，这项改动后使用率提高了十几倍。这个结果属于一次具体产品尝试，不代表所有长者都需要同样的功能；但它提醒我们，使用率低时，先别急着加功能，得回到用户真实会采取的行动。</p>
+<h2 id="把求助做得直接，也要把选择留给用户"><a href="#把求助做得直接，也要把选择留给用户" class="headerlink" title="把求助做得直接，也要把选择留给用户"></a>把求助做得直接，也要把选择留给用户</h2><p>好的求助入口应当容易找到、容易理解，也容易取消或返回。按钮按下后，最好让用户清楚知道会联系谁、会发送什么信息；是否共享健康资料，也应由本人知情选择。联系家人可以是选项，不该变成默认替用户做决定。</p>
+<p>做产品时，与其只问“档案还缺什么字段”，不如观察一次完整场景：用户不舒服时会先做什么？在哪一步需要帮助？他想自己处理，还是希望联系某个人？</p>
+<p><strong>功能的价值不在它有多完整，而在它是否接住了用户真实会做的下一步。</strong></p>
+<p>你用过最简单、却最让你觉得有用的功能是什么？</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://cnspica.github.io/2026/11/16/health-feature-not-a-human-action/" data-id="cmwul4wc800002gtley82au4s" data-title="健康档案做得再完整，也不如一个能找到家人的按钮" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/" rel="tag">产品设计</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%B8%A9%E5%9D%91%E5%A4%8D%E7%9B%98/" rel="tag">踩坑复盘</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E9%93%B6%E5%8F%91%E7%BB%8F%E6%B5%8E/" rel="tag">银发经济</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2026/11/17/senior-learning-and-belonging/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          老年大学吸引人的，可能不只是课程
+        
+      </div>
+    </a>
+  
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%B8%80%E7%BA%BF%E8%A7%82%E5%AF%9F/">一线观察</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/">产品思考</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F/">商业观察</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%B8%82%E5%9C%BA%E8%A7%82%E5%AF%9F/">市场观察</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/">服务设计</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%A7%82%E5%AF%9F%E4%B8%8E%E6%80%9D%E8%80%83/">观察与思考</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83/">设计思考</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95/">设计方法</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/" rel="tag">产品思考</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/" rel="tag">产品设计</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A1/" rel="tag">内容设计</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%8C%85%E5%AE%B9%E6%80%A7%E8%AE%BE%E8%AE%A1/" rel="tag">包容性设计</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%8E%BF%E5%9F%9F%E5%B8%82%E5%9C%BA/" rel="tag">县域市场</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1/" rel="tag">客户服务</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%97%A0%E9%9A%9C%E7%A2%8D/" rel="tag">无障碍</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/" rel="tag">服务设计</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%B2%9F%E9%80%9A%E6%96%B9%E6%B3%95/" rel="tag">沟通方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/" rel="tag">用户体验</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/" rel="tag">用户研究</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%A4%BE%E5%8C%BA/" rel="tag">社区</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%A4%BE%E5%8C%BA%E6%9C%8D%E5%8A%A1/" rel="tag">社区服务</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E8%B8%A9%E5%9D%91%E5%A4%8D%E7%9B%98/" rel="tag">踩坑复盘</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E9%80%82%E8%80%81%E5%8C%96/" rel="tag">适老化</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E9%93%B6%E5%8F%91%E7%BB%8F%E6%B5%8E/" rel="tag">银发经济</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/" style="font-size: 10px;">产品思考</a> <a href="/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/" style="font-size: 10px;">产品设计</a> <a href="/tags/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A1/" style="font-size: 10px;">内容设计</a> <a href="/tags/%E5%8C%85%E5%AE%B9%E6%80%A7%E8%AE%BE%E8%AE%A1/" style="font-size: 10px;">包容性设计</a> <a href="/tags/%E5%8E%BF%E5%9F%9F%E5%B8%82%E5%9C%BA/" style="font-size: 10px;">县域市场</a> <a href="/tags/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1/" style="font-size: 10px;">客户服务</a> <a href="/tags/%E6%97%A0%E9%9A%9C%E7%A2%8D/" style="font-size: 10px;">无障碍</a> <a href="/tags/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/" style="font-size: 15px;">服务设计</a> <a href="/tags/%E6%B2%9F%E9%80%9A%E6%96%B9%E6%B3%95/" style="font-size: 10px;">沟通方法</a> <a href="/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/" style="font-size: 15px;">用户体验</a> <a href="/tags/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/" style="font-size: 15px;">用户研究</a> <a href="/tags/%E7%A4%BE%E5%8C%BA/" style="font-size: 10px;">社区</a> <a href="/tags/%E7%A4%BE%E5%8C%BA%E6%9C%8D%E5%8A%A1/" style="font-size: 10px;">社区服务</a> <a href="/tags/%E8%B8%A9%E5%9D%91%E5%A4%8D%E7%9B%98/" style="font-size: 15px;">踩坑复盘</a> <a href="/tags/%E9%80%82%E8%80%81%E5%8C%96/" style="font-size: 15px;">适老化</a> <a href="/tags/%E9%93%B6%E5%8F%91%E7%BB%8F%E6%B5%8E/" style="font-size: 20px;">银发经济</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2026/11/">November 2026</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2026/11/24/silver-economy-hidden-competitor/">银发经济的隐形竞争对手：家人的耐心</a>
+          </li>
+        
+          <li>
+            <a href="/2026/11/23/health-talk-no-conversion/">四十多人听完健康讲座，却没有一个人转化：问题出在场景里</a>
+          </li>
+        
+          <li>
+            <a href="/2026/11/22/senior-customer-service-clear-next-step/">客服别急着念工单号：长辈更需要一个能复述的答复</a>
+          </li>
+        
+          <li>
+            <a href="/2026/11/21/inclusive-design-for-everyone/">适老化不是给少数人打补丁，而是在完善公共基础</a>
+          </li>
+        
+          <li>
+            <a href="/2026/11/20/community-service-time-and-place/">做社区服务，先去看一天里人们真正出现的时间和地点</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2026 John Doe<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.4.1.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
