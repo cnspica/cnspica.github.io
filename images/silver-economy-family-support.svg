@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">银发经济的隐形竞争</title>
+  <desc id="description">一位长者和一位成年子女一起看手机，旁边列出挂号、缴费、出行三个常见生活场景。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f7f1e7"/>
+  <circle cx="1020" cy="145" r="95" fill="#f2d6a5"/>
+  <path d="M0 575c180-54 305-36 470 8 174 47 340 30 730-63v200H0z" fill="#e7e2d4"/>
+
+  <text x="72" y="106" fill="#263b36" font-family="sans-serif" font-size="28" font-weight="700" letter-spacing="3">SILVER ECONOMY · 商业逻辑</text>
+  <text x="72" y="186" fill="#263b36" font-family="sans-serif" font-size="56" font-weight="700">真正的竞争对手</text>
+  <text x="72" y="254" fill="#263b36" font-family="sans-serif" font-size="56" font-weight="700">不是同行，是家人的耐心</text>
+  <path d="M72 282h170" stroke="#df825b" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(82 330)">
+    <rect width="258" height="66" rx="33" fill="#fffdf8"/>
+    <circle cx="37" cy="33" r="8" fill="#df825b"/>
+    <text x="62" y="43" fill="#354a43" font-family="sans-serif" font-size="28">挂号 · 缴费 · 出行</text>
+  </g>
+  <g transform="translate(82 416)">
+    <rect width="326" height="66" rx="33" fill="#fffdf8"/>
+    <path d="M30 33h20m-10-10v20" stroke="#588b79" stroke-width="5" stroke-linecap="round"/>
+    <text x="68" y="43" fill="#354a43" font-family="sans-serif" font-size="27">每一次代劳，需求就隐身</text>
+  </g>
+
+  <g transform="translate(500 300)">
+    <ellipse cx="273" cy="335" rx="265" ry="28" fill="#d7d0c0"/>
+    <path d="M40 315c12-92 50-143 113-157l89 18 42 139z" fill="#5c8c78"/>
+    <path d="M73 174c0-59 35-102 87-102 49 0 78 39 78 94 0 37-18 65-48 83l-76-9c-27-14-41-34-41-66z" fill="#e0b895"/>
+    <path d="M76 137c6-53 40-87 88-87 42 0 72 26 81 69-22-9-39-22-49-43-23 27-63 45-120 47z" fill="#e8e4d8"/>
+    <path d="M115 171c15 8 30 8 44 0" fill="none" stroke="#93694f" stroke-width="5" stroke-linecap="round"/>
+    <path d="M119 216l-38 104m91-108 58 101" stroke="#e0b895" stroke-width="21" stroke-linecap="round"/>
+
+    <path d="M220 315c4-113 42-177 116-190l88 20 34 170z" fill="#df825b"/>
+    <path d="M252 127c0-62 36-104 91-104 52 0 81 40 81 96 0 38-18 66-48 84l-78-7c-29-14-46-36-46-69z" fill="#d9a77f"/>
+    <path d="M252 104c12-56 49-82 97-76 39 5 64 29 72 70-35-4-62-18-81-43-21 25-48 41-88 49z" fill="#354a43"/>
+    <path d="M293 144c15 8 30 8 44 0" fill="none" stroke="#80583f" stroke-width="5" stroke-linecap="round"/>
+    <path d="M268 198l-60 92m151-91 65 88" stroke="#d9a77f" stroke-width="20" stroke-linecap="round"/>
+
+    <rect x="183" y="274" width="106" height="151" rx="18" transform="rotate(-8 183 274)" fill="#354a43"/>
+    <rect x="193" y="287" width="86" height="119" rx="10" transform="rotate(-8 193 287)" fill="#d8eee4"/>
+    <circle cx="235" cy="414" r="5" fill="#f7f1e7"/>
+    <path d="M211 326l16 16 31-37" fill="none" stroke="#588b79" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M209 366h40" stroke="#7ca997" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="72" y="652" fill="#354a43" font-family="sans-serif" font-size="30" font-weight="700">产品要更省心，服务要更常在。</text>
+  <text x="1115" y="658" fill="#62736a" font-family="sans-serif" font-size="20" text-anchor="end">READING THE UNSEEN NEED</text>
+</svg>
